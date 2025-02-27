@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tech on The Daws Tavern</title>
-    <link>http://localhost:1313/thedawstavern/categories/tech/</link>
+    <link>https://cshugodev.github.io/thedawstavern/categories/tech/</link>
     <description>Recent content in Tech on The Daws Tavern</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>es-es</language>
     <copyright>csHugoDev</copyright>
     <lastBuildDate>Wed, 26 Feb 2025 21:03:12 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/thedawstavern/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cshugodev.github.io/thedawstavern/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firstpost</title>
-      <link>http://localhost:1313/thedawstavern/posts/firstpost/</link>
+      <link>https://cshugodev.github.io/thedawstavern/posts/firstpost/</link>
       <pubDate>Wed, 26 Feb 2025 21:03:12 -0600</pubDate>
-      <guid>http://localhost:1313/thedawstavern/posts/firstpost/</guid>
+      <guid>https://cshugodev.github.io/thedawstavern/posts/firstpost/</guid>
       <description>&lt;p&gt;Texto de ejemplo
 Vamos a probar codigo:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;saludo&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;():&lt;/span&gt;
