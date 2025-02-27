@@ -1,6 +1,6 @@
 ---
 title: "📚 Recursos"
-url: "/resources/"
+url: "/resources"
 summary: resources
 ---
 
