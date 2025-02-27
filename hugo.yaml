@@ -24,14 +24,14 @@ menu:
     - name: Buscador
       url: /search/
       weight: 10
+    - name: Recursos
+      url: /resources/
+      weight: 10
     - name: Categorias
       url: /categories/
       weight: 10
     - name: Tags
       url: tags/
-      weight: 10
-    - name: Recursos
-      url: /resources/
       weight: 10
 
 minify:
@@ -49,9 +49,9 @@ params:
   author: CsHugo
 
   ShowShareButtons: true
-  ShowReadingTime: true
+  #ShowReadingTime: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  #ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowAllPagesInArchive: true
   ShowPageNums: true
@@ -60,7 +60,7 @@ params:
   homeInfoParams:
     Title: "The Daws Tavern"
     Content:
-      👋 Bienvenido a The Daws Tavern!
+      👋 Bienvenido a The Daws Tavern! 🍺
       <br>
       **La taverna**  mi pequeño refugio digital donde escribo sobre código, backend, Linux y cualquier otra cosa que me parezca interesante. No es una red social, no hay algoritmos decidiendo qué debes leer, solo un espacio donde comparto lo que aprendo, lo que construyo y lo que pienso.     
       <br>
@@ -78,9 +78,10 @@ params:
 
   assets:
     disableHLJS: true
-  #     favicon: "<link / abs url>"
-  #     favicon16x16: "<link / abs url>"
-  #     favicon32x32: "<link / abs url>"
+    favicon: "/assets/favicon.ico"
+    favicon16x16: "/assets/favicon-16x16.png"
+    favicon32x32: "/assets/favicon-32x32.png"
+    apple_touch_icon: "/assets/apple-touch-icon.png" 
 
   fuseOpts:
     isCaseSensitive: false

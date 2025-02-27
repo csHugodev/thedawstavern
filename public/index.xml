@@ -21,12 +21,11 @@ Vamos a probar codigo:&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>📚 Recursos</title>
       <link>http://localhost:1313/thedawstavern/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/thedawstavern/resources/</guid>
-      <description>&lt;h1 id=&#34;recursos&#34;&gt;Recursos&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Bienvenido a la bodega de recursos de The Daws Tavern.&lt;/strong&gt; Aquí guardo herramientas, guías, enlaces y todo tipo de material que encuentro útil para el desarrollo. Desde documentación esencial hasta esos pequeños trucos que hacen la vida más fácil, esta es mi colección personal de recursos para backend, Python, Linux y más. Si algo está aquí, es porque en algún momento me ha servido y puede que a ti también. Échale un vistazo, explora y llévate lo que necesites.&lt;/p&gt;</description>
+      <description>resources</description>
     </item>
   </channel>
 </rss>
