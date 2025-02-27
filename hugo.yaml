@@ -19,19 +19,19 @@ mainsections: ["posts"]
 menu:
   main:
     - name: Archivo
-      url: /archives/
+      url: /archives
       weight: 5
     - name: Buscador
-      url: /search/
+      url: /search
       weight: 10
     - name: Recursos
-      url: /resources/
+      url: /resources
       weight: 10
     - name: Categorias
-      url: /categories/
+      url: /categories
       weight: 10
     - name: Tags
-      url: tags/
+      url: tags
       weight: 10
 
 minify:
