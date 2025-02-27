@@ -1,0 +1,105 @@
+baseURL: "https://cshugodev.github.io/thedawstavern/"
+languageCode: es-es
+title: The Daws Tavern
+copyright: "© [csHugoDev](https://github.com/csHugodev)"
+theme: ["PaperMod"]
+
+pagination:
+  pagerSize: 10
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts"]
+
+menu:
+  main:
+    - name: Archivo
+      url: archives
+      weight: 5
+    - name: Buscador
+      url: search/
+      weight: 10
+    - name: Categorias
+      url: /categories/
+      weight: 10
+    - name: Tags
+      url: tags/
+      weight: 10
+    - name: Recursos
+      url: resources/
+      weight: 10
+
+minify:
+  disableXML: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "The Daws Tavern - https://cshugodev.github.io/thedawstavern/"
+  author: CsHugo
+
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  comments: true
+
+  homeInfoParams:
+    Title: "The Daws Tavern"
+    Content:
+      👋 Bienvenido a The Daws Tavern!
+      <br>
+      **La taverna**  mi pequeño refugio digital donde escribo sobre código, backend, Linux y cualquier otra cosa que me parezca interesante. No es una red social, no hay algoritmos decidiendo qué debes leer, solo un espacio donde comparto lo que aprendo, lo que construyo y lo que pienso.     
+      <br>
+      <br>
+      Aquí encontrarás desde guías y notas técnicas hasta divagaciones sobre desarrollo y tecnología. No prometo seguir una línea fija, pero sí que cada entrada tendrá algo útil, curioso o, al menos, digno de una buena charla. Así que sírvete un café, acomódate y bienvenido a la taberna.
+
+  editPost:
+    URL: "https://github.com/cshugodev/thedawstavern/tree/public/content"
+    Text: "Sugerir cambios" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "XYZabc"
+
+  assets:
+    disableHLJS: true
+  #     favicon: "<link / abs url>"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+services:
+  instagram:
+    disableInlineCSS: true
+  x:
+    disableInlineCSS: true
