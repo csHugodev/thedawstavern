@@ -19,10 +19,10 @@ mainsections: ["posts"]
 menu:
   main:
     - name: Archivo
-      url: archives
+      url: /archives/
       weight: 5
     - name: Buscador
-      url: search/
+      url: /search/
       weight: 10
     - name: Categorias
       url: /categories/
@@ -31,7 +31,7 @@ menu:
       url: tags/
       weight: 10
     - name: Recursos
-      url: resources/
+      url: /resources/
       weight: 10
 
 minify:
@@ -68,7 +68,7 @@ params:
       Aquí encontrarás desde guías y notas técnicas hasta divagaciones sobre desarrollo y tecnología. No prometo seguir una línea fija, pero sí que cada entrada tendrá algo útil, curioso o, al menos, digno de una buena charla. Así que sírvete un café, acomódate y bienvenido a la taberna.
 
   editPost:
-    URL: "https://github.com/cshugodev/thedawstavern/tree/public/content"
+    URL: "https://github.com/cshugodev/thedawstavern/tree/main/content/"
     Text: "Sugerir cambios" # edit text
     appendFilePath: true # to append file path to Edit link
 
