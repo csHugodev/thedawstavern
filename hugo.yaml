@@ -5,7 +5,7 @@ copyright: "© [csHugoDev](https://github.com/csHugodev)"
 theme: ["PaperMod"]
 
 pagination:
-  pagerSize: 10
+  pagerSize: 5
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
