@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/thedawstavern/categories/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/categories/</loc>
     <lastmod>2025-03-02T21:27:16-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/tags/configuraci%C3%B3n/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/tags/configuraci%C3%B3n/</loc>
     <lastmod>2025-03-02T21:27:16-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/tags/debian/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/tags/debian/</loc>
     <lastmod>2025-03-02T21:27:16-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/posts/debianinstall/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/posts/debianinstall/</loc>
     <lastmod>2025-03-02T21:27:16-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/tags/instalaci%C3%B3n/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/tags/instalaci%C3%B3n/</loc>
     <lastmod>2025-03-02T21:27:16-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/tags/kde-plasma/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/tags/kde-plasma/</loc>
     <lastmod>2025-03-02T21:27:16-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/categories/linux/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/categories/linux/</loc>
     <lastmod>2025-03-02T21:27:16-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/tags/linux/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/tags/linux/</loc>
     <lastmod>2025-03-02T21:27:16-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/posts/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/posts/</loc>
     <lastmod>2025-03-02T21:27:16-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/tags/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/tags/</loc>
     <lastmod>2025-03-02T21:27:16-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/</loc>
     <lastmod>2025-03-02T21:27:16-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/tags/tutorial/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/tags/tutorial/</loc>
     <lastmod>2025-03-02T21:27:16-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/categories/tutoriales/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/categories/tutoriales/</loc>
     <lastmod>2025-03-02T21:27:16-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/posts/firstpost/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/posts/firstpost/</loc>
     <lastmod>2025-02-26T21:03:12-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/tags/hugo/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/tags/hugo/</loc>
     <lastmod>2025-02-26T21:03:12-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/categories/tech/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/categories/tech/</loc>
     <lastmod>2025-02-26T21:03:12-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/tags/web/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/tags/web/</loc>
     <lastmod>2025-02-26T21:03:12-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/resources/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/resources/</loc>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/archives/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/thedawstavern/search/</loc>
+    <loc>https://cshugodev.github.io/thedawstavern/search/</loc>
   </url>
 </urlset>

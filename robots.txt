@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://localhost:1313/thedawstavern/sitemap.xml
+Sitemap: https://cshugodev.github.io/thedawstavern/sitemap.xml
