@@ -100,6 +100,3 @@ services:
     disableInlineCSS: true
   x:
     disableInlineCSS: true
-
-  disqus:
-    shortname: https-cshugodev-github-io-thedawstavern
