@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://cshugodev.github.io/thedawstavern/sitemap.xml
