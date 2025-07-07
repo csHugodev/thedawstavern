@@ -10,12 +10,17 @@ permissions:
   pages: write
   id-token: write
 
+defaults:
+  run:
+    shell: bash
+    working-directory: ./
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Setup Hugo
@@ -23,10 +28,10 @@ jobs:
         with:
           hugo-version: '0.125.4'
 
-      - name: Build
+      - name: Build with Hugo
         run: hugo --minify
 
-      - name: Upload artifact
+      - name: Upload artifact to GitHub Pages
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
