@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on The Daws Tavern</title>
+    <link>https://cshugodev.github.io/thedawstavern/tags/linux/</link>
+    <description>Recent content in Linux on The Daws Tavern</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <copyright>© [csHugoDev](https://github.com/csHugodev)</copyright>
+    <lastBuildDate>Sun, 02 Mar 2025 21:27:16 -0600</lastBuildDate>
+    <atom:link href="https://cshugodev.github.io/thedawstavern/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guía completa: Cómo instalar Debian 12 con KDE Plasma sin aplicaciones preinstaladas</title>
+      <link>https://cshugodev.github.io/thedawstavern/posts/debianinstall/</link>
+      <pubDate>Sun, 02 Mar 2025 21:27:16 -0600</pubDate>
+      <guid>https://cshugodev.github.io/thedawstavern/posts/debianinstall/</guid>
+      <description>Debian es mi distro de favorita para el día a día. Si quiero algo estable y sin dolores de cabeza, siempre vuelvo a Debian. Pero hay algo que me molesta cada vez que hago una instalación nueva: los escritorios como KDE Plasma o GNOME vienen cargados con un montón de aplicaciones que nunca voy a usar.&#xA;A mucha gente no le importa, porque al final del día no afectan el rendimiento ni nada, pero yo prefiero una instalación más limpia, con lo justo y necesario, para después agregar solo lo que realmente voy a usar.</description>
+    </item>
+  </channel>
+</rss>
